@@ -23,6 +23,10 @@ We have several sensors that detect humidity, temperature, light and the distanc
 
 ![capteur température](images/temp.PNG "")
 
-![capteur ultrason](images/ultra.PNG "")
+![capteur ultrason](images/ultrason.PNG "")
 
 ![LED UV](images/uv.PNG "")
+
+## Circuits
+
+![LED UV](images/circuit.PNG "")
