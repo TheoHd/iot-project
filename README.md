@@ -27,7 +27,7 @@ We have several sensors that detect humidity, temperature, light and height of t
 
 ![LED UV](images/uv.PNG "")
 
-## Electric circuit
+## Electrical circuit
 
 ![LED UV](images/circuit.PNG "")
 
