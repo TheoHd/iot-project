@@ -1,6 +1,6 @@
 # iot-project
 
-##introduction :
+## introduction :
 
 Greench helps keep your plants healthy and green. To do this, our device heats up when needed and tells you when he needs to water. Plus, it automatically provides the brightness you need and tells you when to turn it off.
 
@@ -11,3 +11,18 @@ We have several sensors that detect humidity, temperature, light and the distanc
 ## Componsents
 
 ![Arduino](images/Arduino.PNG "Arduino")
+
+![ESP8266](images/ESP8266.PNG "ESP8266")
+
+
+![capteur humidité](images/humidite.PNG "")
+
+![LED](images/LED.PNG "")
+
+![photorésistance](images/lum.PNG "")
+
+![capteur température](images/temp.PNG "")
+
+![capteur ultrason](images/ultra.PNG "")
+
+![LED UV](images/uv.PNG "")
