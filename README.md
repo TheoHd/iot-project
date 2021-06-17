@@ -10,4 +10,4 @@ We have several sensors that detect humidity, temperature, light and the distanc
 
 ## Componsents
 
-![Alt text](./images/arduino.PNG "Arduino")
+![Alt text](../images/arduino.PNG "Arduino")
