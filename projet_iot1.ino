@@ -48,7 +48,7 @@ void loop()
     Serial.println("Chauffage éteind");
   }
   
-   if(sensor < 300 && temperature_celcius < 25 ){
+   if(sensor < 500 && temperature_celcius < 25 ){
     digitalWrite(LEDpin, HIGH); // la LED s'allume
   }else{
   	digitalWrite(LEDpin, LOW); // la led s'éteind
